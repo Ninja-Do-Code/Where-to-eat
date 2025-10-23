@@ -1,0 +1,31 @@
+Where to Eat?
+
+Purpose:
+A recommendation system designed to help groups decide where to eat.
+
+Objective:
+This recommendation system (RS) will identify restaurants that best suit the preferences and needs of a group.
+
+Why:
+
+Too many choices, unclear decisions
+In large cities, the enourmous number of restaurants makes it difficult to decide where to eat. 
+In group settings, this problem becomes even more complicated because everyone has different preferences regarding cuisine, budget, and other factors.
+
+Some people tend to agree with others to avoid conflict, even if they’re not happy with the final choice.
+
+Sometimes, when everyone says they’re “okay with anything,” (beacuse they are considered and don't want to be difficult) the group ends up not making a decision at all.
+
+Restaurant availability and hours
+In cities like Vancouver, many restaurants close during certain hours (e.g., between 1–3 PM). The recommendation system should account for this by filtering out restaurants that aren’t open during the desired time and date.
+
+Dietary restrictions
+Diverse groups often include members with dietary restrictions (e.g., vegetarian, gluten-free, halal, etc.). The system should ensure that recommended restaurants accommodate everyone’s needs.
+
+Budget and Comfort
+There’s a saying that as we get older, our closest friends tend to be those with similar incomes and lifestyles. 
+Unfortunately, there’s some truth to this. Different activities come with different price tags, and people with similar financial situations often find it easier to enjoy the same kinds of experiences together.
+However, humans are fascinating and wonderful beings. Regardless of wealth, we should all be able to share meaningful moments together. 
+That’s why it’s important for everyone to feel comfortable sitting at the same table both socially and financially.
+
+Each person’s budget may vary. By allowing users to privately enter their preferences through their phones, this system encourages honesty and reduces the peer pressure that often comes with group decisions about where to eat.
